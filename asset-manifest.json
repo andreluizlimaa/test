@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/test/static/css/main.d51bf05c.css",
+    "main.js": "/test/static/js/main.125b12e2.js",
+    "static/media/Logo-bbb.png": "/test/static/media/Logo-bbb.122739019c8426babbb3.png",
+    "static/media/perfil_pessoal.png": "/test/static/media/perfil_pessoal.c3a313d1c1e8b4f3e5f9.png",
+    "static/media/perfil_academico.png": "/test/static/media/perfil_academico.e587d6547223b398ed17.png",
+    "static/media/brother_4.png": "/test/static/media/brother_4.30b0ea51358159c46060.png",
+    "static/media/bbb_blog.png": "/test/static/media/bbb_blog.ecd0a81287206bf80edd.png",
+    "static/media/brother_1.png": "/test/static/media/brother_1.da697a27b6de3689266b.png",
+    "static/media/brother_2.png": "/test/static/media/brother_2.1d8e403f9ea4f5c1f0c6.png",
+    "static/media/brother_3.png": "/test/static/media/brother_3.813558bbae3d488a5229.png",
+    "static/media/brother_8.png": "/test/static/media/brother_8.0341f634535ea067290e.png",
+    "static/media/brother_6.png": "/test/static/media/brother_6.745d271bea170a52b3d3.png",
+    "static/media/include.png": "/test/static/media/include.1d77444e092686141a27.png",
+    "static/media/brother_7.png": "/test/static/media/brother_7.20ff029611addc1d14c5.png",
+    "static/media/brother_5.png": "/test/static/media/brother_5.f991ce3a666fe53abe5d.png",
+    "index.html": "/test/index.html",
+    "main.d51bf05c.css.map": "/test/static/css/main.d51bf05c.css.map",
+    "main.125b12e2.js.map": "/test/static/js/main.125b12e2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d51bf05c.css",
+    "static/js/main.125b12e2.js"
+  ]
+}
