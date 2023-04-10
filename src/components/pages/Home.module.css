@@ -1,0 +1,228 @@
+
+.home_container{
+    background-color: #112536;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 4em;
+}
+.quem_somos{
+    background-color: #112536;
+    padding-left: 13em;
+    align-items: center;
+    justify-content: center;
+}
+.quem_somos_title h3{
+    background-color: #091E2F;
+    color: #fff;
+    padding: 12px 23px;
+    border-radius: 18px;
+    border: 2px solid #091E2F;
+    margin-bottom: 3em;
+    width: 9.1em;
+
+}
+.quem_somos_text p{
+    background-color: #091E2F;
+    color: #fff;
+    margin-bottom: 2em;
+    align-items: center;
+    text-align: justify;
+    width: 80%;
+    padding: 2em;
+    border-radius: 10px;
+}
+.quem_somos_text button{
+    background-color: #091E2F;
+    color: #fff;
+    padding: 8px 17px;
+    border-radius: 18px;
+    border: 2px solid #e07324;
+    margin-bottom: 0.5em;
+    margin-left: 1em;
+    cursor: pointer;
+
+}
+.quem_somos_text button a{
+    text-decoration:none;
+    color: #fff;
+
+}
+
+.container_brothers{
+    background-color: #112536;
+    align-items: center;
+    justify-content: center;
+    height: 40em;
+    width: 100%;
+    padding: 3em 13em;
+}
+.container_brothers_perfils{
+    border: 2px solid #e07324;
+    border-radius: 30px;
+    font-weight: bold;
+    background-color: #091E2F;
+}
+.brothers_title h3{
+    color: #fff;
+    width: 5em;
+    text-align: center;
+    padding: 0.4em;
+    margin: 1.5em 1em;
+    font-size: 1.4em;
+}
+.brother_1{
+    background-color: #EF8E3640;
+    border: 2px solid #e07324;
+    border-radius: 50%;
+    padding: 0.5em 4em 0.7em 4em;
+    width: 5em;
+    display: inline-flex;
+    margin: 0.8em 0.7em 3em 3em;
+
+}
+.brother_1 img{
+    height: 8em;
+    width: 6em;
+    margin-left: -3em;
+
+}
+.brother_2{
+    background-color: #EF8E3640;
+    border: 2px solid #e07324;
+    border-radius: 50%;
+    padding: 0.5em 4em 0.7em 4em;
+    width: 5em;
+    display: inline-flex;
+    margin: 0.8em 0.7em 3em 3em;
+
+}
+.brother_2 img{
+    height: 8em;
+    width: 4.5em;
+    margin-left: -2.3em;
+    padding: 0.6em 0em 0.3em 0em;
+
+}
+.brother_3{
+    background-color: #EF8E3640;
+    border: 2px solid #e07324;
+    border-radius: 50%;
+    padding: 0.5em 4em 0.7em 4em;
+    width: 5em;
+    display: inline-flex;
+    margin: 0.8em 0.7em 3em 3em;
+
+}
+.brother_3 img{
+    height: 8em;
+    width: 6em;
+    margin-left: -3em;
+    padding-bottom: 0.6em;
+    padding-left: 0.3em;
+
+}
+.brother_4{
+    background-color: #EF8E3640;
+    border: 2px solid #e07324;
+    border-radius: 50%;
+    padding: 0.5em 4em 0.7em 4em;
+    width: 5em;
+    display: inline-flex;
+    margin: 0.8em 0.7em 3em 3em;
+}
+.brother_4 img{
+    height: 8em;
+    width: 6em;
+    margin-left: -3em;
+    padding: 0.8em 0.3em 0.8em 0.3em;
+
+}
+.brother_5{
+    background-color: #EF8E3640;
+    border: 2px solid #e07324;
+    border-radius: 50%;
+    padding: 0.5em 4em 0.7em 4em;
+    width: 5em;
+    display: inline-flex;
+    margin: 0.8em 0.7em 3em 3em;
+}
+.brother_5 img{
+    height: 8.3em;
+    width: 6em;
+    margin-left: -3em;
+    padding: 0.8em 0.3em 0.8em 0.9em;
+
+}
+.brother_6{
+    background-color: #EF8E3640;
+    border: 2px solid #e07324;
+    border-radius: 50%;
+    padding: 0.5em 4em 0.7em 4em;
+    width: 5em;
+    display: inline-flex;
+    margin: 0.8em 0.7em 3em 3em;
+}
+.brother_6 img{
+    height: 8em;
+    width: 6em;
+    margin-left: -3em;
+    padding: 0.8em 0.3em 0.8em 0.3em;
+
+}
+.brother_7{
+    background-color: #EF8E3640;
+    border: 2px solid #e07324;
+    border-radius: 50%;
+    padding: 0.5em 4em 0.7em 4em;
+    width: 5em;
+    display: inline-flex;
+    margin: 0.8em 0.7em 3em 3em;
+}
+.brother_7 img{
+    height: 8em;
+    width: 6em;
+    margin-left: -3em;
+    padding: 0.8em 0.9em 0.8em 0.3em;
+
+}
+.brother_8{
+    background-color: #EF8E3640;
+    border: 2px solid #e07324;
+    border-radius: 50%;
+    padding: 0.5em 4em 0.7em 4em;
+    width: 5em;
+    display: inline-flex;
+    margin: 0.8em 0.7em 3em 3em;
+}
+.brother_8 img{
+    height: 8em;
+    width: 6em;
+    margin-left: -3em;
+    padding: 0.8em 0.4em 0.8em 0.3em;
+
+}
+.brothers.perfils{
+
+}
+.container_include{
+    background-color: #112536;
+    width: 100%;
+    padding: 3em 3em 5em 12em;
+}
+.video_include{
+    margin-left: 0.7em;
+}
+.include_title h3{
+    background-color: #091E2F;
+    color: #fff;
+    padding: 12px 13px;
+    border-radius: 18px;
+    border: 2px solid #091E2F;
+    margin-bottom: 1.7em;
+    width: 17em;
+    margin-left: 0.3em;
+
+}
